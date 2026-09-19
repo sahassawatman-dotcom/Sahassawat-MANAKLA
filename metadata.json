@@ -1,0 +1,6 @@
+{
+  "name": "ActiveAR PhysEd - สื่อการเรียนรู้พลศึกษา AR Interactive",
+  "description": "สื่อการเรียนรู้เกมความจริงเสริม (Interactive AR Game) วิชาพลศึกษา สำหรับชั้นเรียนจริง ส่งเสริมการเคลื่อนไหว คิด วิเคราะห์ ตัดสินใจ และฟีดแบ็กสมรรถภาพทันที",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
